@@ -372,13 +372,13 @@ O que será verificado:
 </details>
 
 
-## Como executar
+# Como executar
 
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
 $ git clone git@github.com:Lucas-Almeida-SD/Trybe-Projeto_23-SQL-One_For_All.git
-$ cd Trybe-Projeto_22-SQL-All_For_One
+$ cd Trybe-Projeto_23-SQL-One_For_All
 ```
 
 Abra o `MySQL Workbench` e restaure o banco de dados `SpotifyClone` que está no arquivo `desafio1.sql`.
